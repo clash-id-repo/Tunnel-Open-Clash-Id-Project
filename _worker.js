@@ -139,7 +139,7 @@ vlessConfigs += `
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>CLOUDFLARE PROXY</title>
+    <title>TUNNEL - CLASH ID PROJECT</title>
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" integrity="sha512-Fo3rlrZj/k7ujTnHg4C+6PCWJ+8zzHcXQjXGp6n5Yh9rX0x5fOdPaOqO+e2X4R5C1aE/BSqPIG+8y3O6APa8w==" crossorigin="anonymous" referrerpolicy="no-referrer" />
 <style>
@@ -340,7 +340,7 @@ vlessConfigs += `
         <div class="header">
             <div class="profile-container">
 				<img src="https://avatars.githubusercontent.com/u/61716582?v=4" alt="VLESS CLOUDFLARE" class="profile-pic">
-				<h2 class="profile-name">SONZAIX VLESS</h2>
+				<h2 class="profile-name">TUNNEL - CLASH ID PROJECT</h2>
 			</div>
         </div>
         <div class="nav-buttons">
@@ -356,9 +356,9 @@ vlessConfigs += `
         </div>
 		<div id="info" class="content">
 			<p>Workers ini baru support wildcard <strong>support.zoom.us</strong></p>
-			<p>Jika kalian ingin menambah domain agar support wildcard di vless ini, silakan chat di Telegram: <a href="https://t.me/November2k" target="_blank" style="color: #00ff00; text-decoration: none;">Sonzai X シ</a></p>
+			<p>Jika kalian ingin menambah domain agar support wildcard di vless ini, silakan chat di Telegram: <a href="https://wa.me/message/AAJINXPGV6IJA1" target="_blank" style="color: #00ff00; text-decoration: none;">Clash Id Project</a></p>
 			<!-- Tambahkan tombol CHAT di sini -->
-			<a href="https://t.me/november2k" target="_blank">
+			<a href="https://wa.me/message/AAJINXPGV6IJA1" target="_blank">
 				<button class="button" style="margin-top: 10px;">CHAT</button>
 			</a>
 		</div>
